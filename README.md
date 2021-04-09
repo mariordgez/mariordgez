@@ -3,18 +3,18 @@
 ### A little more about me...
 
 
-lookingFor: "Back-end developer" || "Full-stack web developer",
-Languages: [JavaScript, HTML/CSS, Semantic UI, Bootstrap],
-Likes/Hobbies: [Dogs, Videogames, Mental challenges, Family and friends],
-Currently working on: "HTML and CSS skills",
-Fun Fact: ['I have a bronze medal in my country's national mathematics competition',
+- Looking for: "Back-end developer" || "Full-stack web developer",
+- Languages: [JavaScript, HTML/CSS, Semantic UI, Bootstrap],
+- Likes/Hobbies: [Dogs, Videogames, Mental challenges, Family and friends],
+- Currently working on: "HTML and CSS skills",
+- Fun Fact: ['I have a bronze medal in my country's national mathematics competition',
 'I am open to new opportunities contact me any time.']
 
 
-#Weekly progress
-HTML: 20 hrs,
-Bootstrap: 10hrs,
-CSS: 5hrs,
+### Weekly progress
+- HTML: 20 hrs,
+- Bootstrap: 10hrs,
+- CSS: 5hrs,
 
 
 <!--
