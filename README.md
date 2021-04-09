@@ -1,6 +1,6 @@
 ### Hi there, Im Mario 👋
 
-###A little more about me...
+### A little more about me...
 
 
 lookingFor: "Back-end developer" || "Full-stack web developer",
