@@ -12,9 +12,11 @@
 
 
 ### Weekly progress
-- HTML: 20 hrs,
-- Bootstrap: 10hrs,
-- CSS: 5hrs,
+- HTML: 100+ hrs,
+- CSS: 100+hrs,
+- Ruby: 240 hrs,
+- Ruby on Rails : 300 hrs,
+- Javascript: 160 hrs
 
 ### 🔭 I’m currently working on ...
  I'm currently working on the JavaScript curriculum, using ES6 syntax and modules, as well as manipulating DOM elements and working with differents API's.
