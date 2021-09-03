@@ -16,6 +16,8 @@
 - Bootstrap: 10hrs,
 - CSS: 5hrs,
 
+- 🔭 I’m currently working on ...
+ I'm currently working on the JavaScript curriculum, using ES6 syntax and modules, as well as manipulating DOM elements and working with differents API's.
 
 <!--
 **mariordgez/mariordgez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
