@@ -3,8 +3,8 @@
 ### A little more about me...
 
 
-- Looking for: "Back-end developer" || "Full-stack web developer",
-- Languages: [JavaScript, HTML/CSS, Semantic UI, Bootstrap],
+- Looking for: "Back-end developer" || "Full-stack web developer" ,
+- Languages/Frameworks: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, React, Ruby, Ruby on rails],
 - Likes/Hobbies: [Dogs, Videogames, Mental challenges, Family and friends],
 - Currently working on: "HTML and CSS skills",
 - Fun Fact: ['I have a bronze medal in my country's national mathematics competition',
