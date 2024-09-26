@@ -1,4 +1,4 @@
-## **Hi there, I'm Mario** 👋 <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif?cid=ecf05e47q04v1m88ajsmjc8d16y9pilizpoecwldtmg2vxp6&rid=giphy.gif&ct=g" width="80" />
+## **Hi there, I'm Mario** 👋
 
 _A full stack web dev who utilizes the technologies below_ 
 
