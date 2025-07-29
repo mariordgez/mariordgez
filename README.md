@@ -55,7 +55,7 @@ const marioAlberto = {
     
 <h2 align='center'>Mario's GitHub Stats:</h2>
 
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariordgez&show_icons=true&count_private=true&theme=react) ![Marios's Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariordgez&show_icons=true&count_private=true&theme=react)
+![Mario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariordgez&show_icons=true&count_private=true&theme=react) ![Marios's Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariordgez&show_icons=true&count_private=true&theme=react)
  </div>
  
  <p align="center">
