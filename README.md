@@ -1,4 +1,4 @@
-## **Hi there, I'm Mario** 👋
+ ## **Hi there, I'm Mario** 👋
 
 _A full stack web dev who utilizes the technologies below_ 
 
@@ -61,7 +61,7 @@ const marioAlberto = {
  <p align="center">
  <h2 align="center">Contribution Graph</h2>
 <p>
-<img alt="Emmanuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mariordgez&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Mario's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mariordgez&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
  Check out my [Portfolio](https://mario2209-portfolio.netlify.app/)
